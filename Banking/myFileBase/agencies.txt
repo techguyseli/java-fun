@@ -1,0 +1,3 @@
+ID			NAME			TEL			ADRESS			EMAIL
+1			Agence 1A			0660151264			Something, Rabat			agence1@gmail.com
+3			other one			0697841623			something too, Tanger			otherone@bmce.ma

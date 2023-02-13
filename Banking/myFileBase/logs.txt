@@ -1,0 +1,6 @@
+ID			ACCOUNT ID			DATETIME			TYPE			MESSAGE
+1			b-1-1			2023-02-13T18:42:01.012327300			CREATION			Compte b-1-1 a été créer, appartenant au client avec le CIN lb234107
+2			b-3-2			2023-02-13T19:04:24.849872100			CREATION			Compte b-3-2 a été créer, appartenant au client avec le CIN lb232323
+3			b-3-2			2023-02-13T19:06:18.659691800			VERSEMENT			Vous avez versé un montant de 1600 DH.
+4			b-3-2			2023-02-13T19:07:14.669254400			VIREMENT			Vous avez envoyé un montant de 500 DH au compte b-1-1.
+5			b-1-1			2023-02-13T19:07:14.670326400			VIREMENT			Vous avez reçu un montant de 500 DH envoyé du compte b-3-2.

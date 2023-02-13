@@ -1,0 +1,3 @@
+ID			PRENOM			NOM			LOGIN			MOT DE PASSE			EMAIL			CIN			TEL			SEXE
+2			salmi			hmed			hmed			pass			null			lb234155			0660151548			HOMME
+3			salma			zaki			salma.zaki			pass			salma123@gmail.co			lb232323			0660606060			FEMME
